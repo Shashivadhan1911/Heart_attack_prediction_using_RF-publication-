@@ -101,14 +101,16 @@ Our findings suggest that machine learning-based prediction models can serve as 
 If you use this work in your research, please cite:
 
 ```bibtex
-@inproceedings{author2024heart,
-  title={Heart Attack Prediction using Random Forest},
-  author={[Your Name] and [Collaborators]},
-  booktitle={[Conference Name]},
-  year={2024},
-  organization={IEEE},
-  doi={10.1109/xxxxx.2024.11087776}
-}
+@INPROCEEDINGS{11087776,
+  author={Chintala, Sridhar and Cheepiri, Shashivadhan and Kokkula, Trilok and Radhika, Thatikonda and Acharya, Deep Shekhar and Bijanwal, Viswanath},
+  booktitle={2025 Seventh International Conference on Computational Intelligence andCommunication Technologies (CCICT)}, 
+  title={Heart Attack Prediction uisng Random Forest}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={187-192},
+  keywords={Radio frequency;Performance evaluation;Accuracy;Explainable AI;Prevention and mitigation;Cardiac arrest;Predictive models;Robustness;Random forests;Medical diagnostic imaging;Explainable AI;Random Forest;Heart Attack Prediction;SHAP;PDP},
+  doi={10.1109/CCICT65753.2025.00038}}
 ```
 ## 🤝 Contributing
 
