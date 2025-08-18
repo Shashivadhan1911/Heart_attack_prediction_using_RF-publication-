@@ -12,8 +12,11 @@ This repository contains the implementation and research findings for heart atta
 
 - **Title:** Heart Attack Prediction using Random Forest
 - **Authors:** [Shashivadhan Cheepiri](https://github.com/Shashivadhan1911) and collaborators
-- **Conference:** [Conference Name]
+- **Affiliation:** School of CS & AI, SR University, Warangal, India
+- **Conference:** Seventh International Conference on Computational Intelligence and Communication Technologies (CCICT 2025)
+- **Organizers:** B.M. Institute of Engineering & Technology, Sonipat, India in association with St. Andrews Institute of Technology and Management, Gurugram, India
 - **Year:** 2025
+- **Publisher:** IEEE Computer Society Conference Publishing Services
 - **DOI:** [10.1109/xxxxx.2024.11087776](https://ieeexplore.ieee.org/abstract/document/11087776)
 - **IEEE Document ID:** 11087776
 
