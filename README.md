@@ -122,9 +122,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author:** [Shashivadhan Cheepiri] - [shashivadhan1911@gmail.com]
+- **Author:** [Shashivadhan Cheepiri] - [shashivadhan1911@gmail.com](mailto:shashivadhan1911@gmail.com)
 - **Institution:** [SR University]
-- **Research Group:** [Sridhar Chinthala, Trilok Kokkula]
+- **Research Group:** [Sridhar Chinthala, Trilok Kokkula, Viswanath Bijanwal, Thatikonda Radhika, Deep Shekhar Acharya]
 
 ## 🙏 Acknowledgments
 
